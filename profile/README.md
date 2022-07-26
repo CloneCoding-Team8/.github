@@ -1,5 +1,3 @@
-# Back-end
-
 # 8조 (만개의 스토어 클론코딩)
 <a href = "http://homework99.s3-website.ap-northeast-2.amazonaws.com/">![image](https://user-images.githubusercontent.com/102587669/175245023-3211dd4b-e2cd-49cf-b8c4-4c54d4bc10d2.png)
 
